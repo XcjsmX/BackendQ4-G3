@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GptlOfyGc/Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlo\\RiderProjects\\BackendQ4-G3PrograWeb\\BackendQ4-G3PrograWeb\\BackendQ4-G3PrograWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

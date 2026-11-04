@@ -1,0 +1,6 @@
+@BackendQ4_G3PrograWeb_HostAddress = http://localhost:5103
+
+GET {{BackendQ4_G3PrograWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
